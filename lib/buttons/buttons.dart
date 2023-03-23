@@ -25,7 +25,7 @@ class MyWidget extends StatelessWidget {
                     text,
                     textAlign: TextAlign.center,
                     style: const TextStyle(
-                        color: Color.fromRGBO(255, 255, 255, 1),
+                        color: Color.fromRGBO(182, 46, 46, 1),
                         fontFamily: 'Roboto',
                         fontSize: 14,
                         letterSpacing: 0.10000000149011612,
